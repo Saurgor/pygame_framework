@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="15" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="mario" tilewidth="40" tileheight="40">
+  <image source="../images/tileset.png" width="160" height="160"/>
+ </tileset>
+ <layer name="main" width="50" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBSMgpELmAbaAaNgFAwCgJ4PGKFiyDQtAC8Q89HIbGoCQu7kB2IBOrkFGyA2HAm5c6D9Qaz95PiDBYg5gZgLiLmHMB8AQGIp47gLAAA=
+  </data>
+ </layer>
+</map>
