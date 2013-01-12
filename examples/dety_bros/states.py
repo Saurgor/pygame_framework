@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import entities
-import framework
+import pygame_framework
 import helpers
 import pygame
 import sprites
@@ -12,7 +12,7 @@ MUSIC_LEVEL = 1.0
 SOUND_LEVEL = 1.0
 
 
-class MainState(framework.AbstractState):
+class MainState(pygame_framework.AbstractState):
 
     # Charactors
     charactors = ('aenyhm', 'djlechuck')

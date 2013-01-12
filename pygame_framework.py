@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """
-framework
-~~~~~~~~~
+pygame_framework
+~~~~~~~~~~~~~~~~
 
 This module helps making a game in Python with Pygame.
 

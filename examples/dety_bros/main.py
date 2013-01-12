@@ -4,7 +4,7 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath('../..'))
 
-from framework import AbstractGame
+from pygame_framework import AbstractGame
 from states import TitleState, GameState
 
 
